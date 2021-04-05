@@ -22,22 +22,22 @@ Basic web server running on port 8080 #then you can visit host:8080 on your brow
 
 ## Code and Result
 ### Web Server Code 1
-![Web Server Code 1](./images/zuri-server-code-1.jpeg)
+![Web Server Code 1](./images/zuri-server-code-1.JPG)
 
 ### Web Server Code 2
-![Web Server Code 2](./images/zuri-server-code-2.jpeg)
+![Web Server Code 2](./images/zuri-server-code-2.JPG)
 
 ### Plain Text Result
-![Plain Text](./images/plain-text.jpeg)
+![Plain Text](./images/plain-text.JPG)
 
 ### JSON Object Result
-![JSON Object](./images/json-api.jpeg)
+![JSON Object](./images/json-api.JPG)
 
 ### Web Page Result
-![Web Page](./images/web-page.jpeg)
+![Web Page](./images/web-page.JPG)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](./L)
