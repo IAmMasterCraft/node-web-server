@@ -1,0 +1,11 @@
+{
+  "name": "zuri-basic-server",
+  "version": "1.0.0",
+  "description": "just a basic server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MasterCraft",
+  "license": "MIT"
+}
