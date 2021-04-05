@@ -1,6 +1,6 @@
 # BASIC Node JS Web Server
 
-This is just a basic and very simple node js web server that sends a plain text, a json object and html web page to the client
+This is just a basic and very simple node js web server that sends a plain text, a json object and html web page to the client/browser
 
 ## Installation
 
@@ -40,4 +40,4 @@ Basic web server running on port 8080 #then you can visit host:8080 on your brow
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-[MIT](./L)
+[MIT](./LICENSE)
